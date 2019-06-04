@@ -9,6 +9,6 @@ My best submission: noise9ss.py Public score: 1.625 Private score: 2.501 Final s
 My final submission: noise204ss.py Public score: 1.473 Private score: 2.675 Final standing 3061, i.e. top 67%
 
 As it can be seen the public score was not a measure of the model performance. 
-In general, I think RNN (LSTM, GRU) is not the best way to solve this problem because the number of features is limited by computation resources. The best way is to use regression (Random Forest or LGBM) with significantly increased the number of features. 
+In general, I think RNN (LSTM, GRU) is not the best way to solve this problem because the number of features is limited by computation resources. The best way is to use regression (Random Forest or LGBM) for significantly increased number of features. 
 
 
